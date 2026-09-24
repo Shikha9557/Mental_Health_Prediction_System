@@ -39,6 +39,8 @@ python train_model.py
 
 This will:
 - Load and preprocess `data/Mental_Health_dataset1.csv`
+  Dataset Link: https://www.kaggle.com/datasets/bhavikjikadara/mental-health-dataset
+  
 - Train 3 models: RandomForest, GradientBoosting, LogisticRegression
 - Select the best model by accuracy
 - Save `model.pkl`, `label_encoders.pkl`, `metadata.json` to `models/`
