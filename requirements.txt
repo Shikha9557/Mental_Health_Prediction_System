@@ -1,0 +1,17 @@
+# Mental Health Prediction - Python Dependencies
+
+# Data & ML
+pandas>=1.5.0
+numpy>=1.23.0
+scikit-learn>=1.2.0
+
+# Backend
+flask>=2.3.0
+flask-cors>=4.0.0
+
+# Frontend
+streamlit>=1.28.0
+plotly>=5.15.0
+
+# Utility
+requests>=2.31.0
